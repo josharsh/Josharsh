@@ -1,0 +1,93 @@
+		.nav .open > a:after,
+		.nav .open > a:hover:after,
+		.nav .open > a:focus:after,
+		.navbar-default .navbar-nav > .active > a:hover:after,
+		.navbar-default .navbar-nav > .active > a:focus:after,
+		.navbar-nav > li > a:focus:after,
+		.navbar-nav > li > a:hover:after {
+		    border-top-color: #F1773D;
+		}
+		
+		.boxes h5 a,
+		.block .sign p,
+		a:hover,
+		.visual .info i,
+		a:focus,
+		.check li:before,
+		.navbar-default .navbar-nav li:hover a,
+		.navbar-default .navbar-nav > .active > a,
+		.navbar-default .navbar-nav > .active > a:hover,
+		.navbar-default .navbar-nav > .active > a:focus {
+		    color: #F1773D !important;
+		}
+		
+		.navbar-right .lastlink a:hover i {
+		    border-right-color: #F1773D;
+		}
+		
+		.footer .form-control:focus,
+		.quoteform .form-control:focus {
+		    border-color: #F1773D !important;
+		}
+		
+		.pager li > a:hover,
+		.pager li > span:hover,
+		.portfolio-filter .btn-default:hover,
+		.service-content hr,
+		.section-title hr {
+		    border-color: #F1773D;
+		}
+		
+		.pricing-box-05 {
+		    border-top-color: #F1773D !important;
+		}
+		
+		.mejs-controls .mejs-time-rail .mejs-time-loaded {
+		    background: #F1773D !important;
+		}
+		
+		.tags a,
+		.btn-primary,
+		.pricing-box-06.featured,
+		.owl-theme .owl-nav [class*='owl-']:hover,
+		.navbar-right .lastlink .btn {
+		    border-color: #F1773D;
+		    background-color: #F1773D;
+		    color: #ffffff !important;
+		}
+		
+		.magnibutton i,
+		.pagination > li > a:hover,
+		.pagination > li > span:hover,
+		.btn-primary:focus,
+		.btn-primary.focus,
+		.btn-primary:hover,
+		.btn-primary:active,
+		.btn-primary.active,
+		.open > .dropdown-toggle.btn-primary,
+		.btn-primary:active:hover,
+		.btn-primary.active:hover,
+		.open > .dropdown-toggle.btn-primary:hover,
+		.btn-primary:active:focus,
+		.btn-primary.active:focus,
+		.open > .dropdown-toggle.btn-primary:focus,
+		.btn-primary:active.focus,
+		.btn-primary.active.focus,
+		.open > .dropdown-toggle.btn-primary.focus,
+		.btn-primary:active,
+		.btn-primary.active,
+		.open > .dropdown-toggle.btn-primary,
+		.btn-primary.disabled:hover,
+		.btn-primary[disabled]:hover,
+		fieldset[disabled] .btn-primary:hover,
+		.btn-primary.disabled:focus,
+		.btn-primary[disabled]:focus,
+		fieldset[disabled] .btn-primary:focus,
+		.btn-primary.disabled.focus,
+		.btn-primary[disabled].focus,
+		fieldset[disabled] .btn-primary.focus,
+		.btn-primary .badge {
+		    color: #ffffff !important;
+		    background-color: #cb5720;
+		    border-color: #cb5720;
+		}
