@@ -86,7 +86,7 @@ Systems, Engineering and Dark Arts
     <tbody>
       <tr>
 	<td><a href="https://github.com/josharsh/YAWP"><b>YAWP</b></a><a href="https://yawp.josharsh.tech/">Link</a></td>
-	<td><a href="https://github.com/josharsh/LinkedlistJs"><b>LinkedListJs</b></a><a href="https://www.npmjs.com/package/@josharsh/linkedlistjs">Link</a></td>
+	<td><a href="https://github.com/josharsh/LinkedlistJs"><b>LinkedListJs</b></a><a href="https://www.npmjs.com/package/@josharsh/linkedlistjs"> Link</a></td>
       </tr>
      <tr>
 	<td><a href="https://github.com/josharsh/Finance-Manager"><b>Finance Manager</b></a></td>
@@ -94,10 +94,10 @@ Systems, Engineering and Dark Arts
       </tr>
        <tr>
 	<td><a href="https://github.com/josharsh/Get-Movie"><b>Get-Movie</b></a></td>
-	<td><a href="https://github.com/josharsh/React-Search"><b>Conference-Search</b></a><a href="https://konfhub-frontend.herokuapp.com/>Link</a></td>
+	<td><a href="https://github.com/josharsh/React-Search"><b>Conference-Search</b></a><a href="https://konfhub-frontend.herokuapp.com/> Link</a></td>
       </tr>
        <tr>
-	<td><a href="https://github.com/josharsh/JustJoking"><b>Just Joking</b></a><a href="https://boiling-forest-49642.herokuapp.com/">Link</a></td>
+	<td><a href="https://github.com/josharsh/JustJoking"><b>Just Joking</b></a><a href="https://boiling-forest-49642.herokuapp.com/"> Link</a></td>
 	<td><a href="https://github.com/josharsh/Harmonica"><b>Harp</b></a></td>
       </tr>
  	<tr>
