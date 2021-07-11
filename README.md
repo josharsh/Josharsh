@@ -7,7 +7,7 @@ Systems, Engineering and Dark Arts
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/josharsh_)
 
 # Dev
-### Projects and Dev Stuffs:
+### Projects and Dev Stuff:
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
