@@ -77,4 +77,35 @@ Systems, Engineering and Dark Arts
   </table>
   <br />
 </details>
+
+<details>
+  <summary><b>Projects to 🌟</b></summary>
+
+  <br />
+  <table>
+    <tbody>
+      <tr>
+	<td><a href="https://github.com/josharsh/YAWP"><b>YAWP</b></a><a href="https://yawp.josharsh.tech/">Link</a></td>
+	<td><a href="https://github.com/josharsh/LinkedlistJs"><b>LinkedListJs</b></a><a href="https://www.npmjs.com/package/@josharsh/linkedlistjs">Link</a></td>
+      </tr>
+     <tr>
+	<td><a href="https://github.com/josharsh/Finance-Manager"><b>Finance Manager</b></a></td>
+	<td><a href="https://github.com/josharsh/React-Firebase-Auth"><b>React Firebase Auth</b></a></td>
+      </tr>
+       <tr>
+	<td><a href="https://github.com/josharsh/Get-Movie"><b>Get-Movie</b></a></td>
+	<td><a href="https://github.com/josharsh/React-Search"><b>Conference-Search</b></a><a href="https://konfhub-frontend.herokuapp.com/>Link<a></td>
+      </tr>
+       <tr>
+	<td><a href="https://github.com/josharsh/JustJoking"><b>Just Joking</b></a><a href="https://boiling-forest-49642.herokuapp.com/">Link</a></td>
+	<td><a href="https://github.com/josharsh/Harmonica"><b>Harp</b></a></td>
+      </tr>
+ 	<tr>
+	<td><a href="https://github.com/josharsh/QuizAnyTime"><b>Quiz Anytime</b></a></td>
+	<td><a href="https://github.com/josharsh/AndroidLabs"><b>Android Labs</b></a></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
  
