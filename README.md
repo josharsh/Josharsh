@@ -94,7 +94,7 @@ Systems, Engineering and Dark Arts
       </tr>
        <tr>
 	<td><a href="https://github.com/josharsh/Get-Movie"><b>Get-Movie</b></a></td>
-	<td><a href="https://github.com/josharsh/React-Search"><b>Conference-Search</b></a><a href="https://konfhub-frontend.herokuapp.com/> Link</a></td>
+	<td><a href="https://github.com/josharsh/React-Search"><b>Conference-Search</b></a><a href="https://konfhub-frontend.herokuapp.com"/> Link</a></td>
       </tr>
        <tr>
 	<td><a href="https://github.com/josharsh/JustJoking"><b>Just Joking</b></a><a href="https://boiling-forest-49642.herokuapp.com/"> Link</a></td>
