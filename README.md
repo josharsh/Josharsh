@@ -5,7 +5,7 @@ Systems, Engineering and Dark Arts </br></br>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/josharsh1)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/josharsh_)
 																		      
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6824448270119567361" height="538" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 # Dev
 ### Projects and Dev Stuff:
 
