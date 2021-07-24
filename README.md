@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/josharsh/Josharsh/master/backdrop.png">
+<img src="https://raw.githubusercontent.com/josharsh/Josharsh/master/backdrop.png"/>
 # Hi! I am Harsh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Systems, Engineering and Dark Arts </br></br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/josharsh)
