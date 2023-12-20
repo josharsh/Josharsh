@@ -6,5 +6,6 @@ Systems, Engineering and Dark Arts </br></br>
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://josharsh.herokuapp.in )
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/josharsh1)
 [![Substack Badge](https://img.shields.io/badge/substack-blue?style=flat-square&logo=Instagram&logoColor=white)](https://josharsh.substack.com_)
+[![Find me on NPM](https://img.shields.io/badge/find%20me%20on%20npm-red)](https://npmjs.com/~josharsh)
 																		
  
