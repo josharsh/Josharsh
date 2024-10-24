@@ -1,4 +1,4 @@
-My Blog - <h1>unengineered.subtack.com </h1></br></br>
+My Blog - unengineered.subtack.com </br></br>
 ![](https://raw.githubusercontent.com/josharsh/Josharsh/master/backdropnew.png)
 <br/>
 # Hi! I am Harsh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
