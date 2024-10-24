@@ -1,5 +1,5 @@
-My Blog - https://unengineered.substack.com 
-[![Find my blog](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.unengineered.substack.com )																	
+My Blog - https://unengineered.substack.com/
+[![Find my blog](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://unengineered.substack.com/)																	
  
 </br></br>
 ![](https://raw.githubusercontent.com/josharsh/Josharsh/master/backdropnew.png)
