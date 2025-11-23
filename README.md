@@ -1,9 +1,6 @@
-**Making AI agents production-ready** | Building tools for MCP 
-Currently: Coupang, Visa · Previously: PlumHQ (founding eng)
-Writing: [unengineered.substack.com](https://unengineered.substack.com)
-
 > Engineering is mostly over-engineering. I try to build the simplest thing that actually works,
 > then write about what breaks. Hence "unengineered."
+> Read it on [unengineered.substack.com](https://unengineered.substack.com)
 
 </br></br>
 ![](https://raw.githubusercontent.com/josharsh/Josharsh/master/backdropnew.png)
