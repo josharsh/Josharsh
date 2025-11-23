@@ -1,11 +1,20 @@
-My Blog - https://unengineered.substack.com/
-[![Find my blog](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://unengineered.substack.com/)																	
- 
+Making AI agents production-ready | Building tools for MCP | Couupang, Visa, ex-PlumHQ | Writing at unengineered
+Engineering is mostly over-engineering. I try to build the simplest thing that actually works, then write about what breaks. Hence "unengineered."
+Read on [unengineered.substack.com](https://unengineered.substack.com)
 </br></br>
 ![](https://raw.githubusercontent.com/josharsh/Josharsh/master/backdropnew.png)
 <br/>
 # Hi! I am Harsh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Systems, Engineering and Dark Arts </br></br>
+
+I like building small things that work and big things that scale. Sometimes they're the same thing.
+I am an engineer and currently building applied AI systems, developer tools, and AI infrastructure - mostly focused on making agentic systems reliable for production.
+Currently at Visa building payment systems at scale, previously a founding engineer at PlumHQ
+
+### Thinking about
+Testing non-deterministic AI systems. Better abstractions for agentic workflows.
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/josharsh)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://josharsh.herokuapp.in )
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/josharsh1)
