@@ -1,3 +1,5 @@
+## Built the first MCP server testing framework - [MCP JEST](https://mcp-jest.ddiy.diy)
+
 > Engineering is mostly over-engineering. I try to build the simplest thing that actually works,
 > then write about what breaks. Hence "unengineered."
 > Read it on [unengineered.substack.com](https://unengineered.substack.com)
@@ -11,7 +13,7 @@ Systems, Engineering and Dark Arts </br></br>
 > I like building small things that work and big things that scale. Sometimes they're the same thing.
 > I am an engineer and currently building applied AI systems, developer tools, and blocks that would power tomorrow's AI infrastructure.
 > Mostly focused on making agentic systems reliable for production.
-> Currently at Visa building payment systems at scale, previously a founding engineer at PlumHQ
+> Currently at [Visa](https://visa.com), building payment systems at scale, previously a founding engineer at [Plum](https://plumhq.com)
 
 ### Thinking about
 Testing non-deterministic AI systems. Better abstractions for agentic workflows.
