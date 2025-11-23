@@ -1,15 +1,20 @@
-Making AI agents production-ready | Building tools for MCP | Couupang, Visa, ex-PlumHQ | Writing at unengineered
-Engineering is mostly over-engineering. I try to build the simplest thing that actually works, then write about what breaks. Hence "unengineered."
-Read on [unengineered.substack.com](https://unengineered.substack.com)
+**Making AI agents production-ready** | Building tools for MCP 
+Currently: Coupang, Visa · Previously: PlumHQ (founding eng)
+Writing: [unengineered.substack.com](https://unengineered.substack.com)
+
+> Engineering is mostly over-engineering. I try to build the simplest thing that actually works,
+> then write about what breaks. Hence "unengineered."
+
 </br></br>
 ![](https://raw.githubusercontent.com/josharsh/Josharsh/master/backdropnew.png)
 <br/>
 # Hi! I am Harsh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Systems, Engineering and Dark Arts </br></br>
 
-I like building small things that work and big things that scale. Sometimes they're the same thing.
-I am an engineer and currently building applied AI systems, developer tools, and AI infrastructure - mostly focused on making agentic systems reliable for production.
-Currently at Visa building payment systems at scale, previously a founding engineer at PlumHQ
+> I like building small things that work and big things that scale. Sometimes they're the same thing.
+> I am an engineer and currently building applied AI systems, developer tools, and AI infrastructure.
+> Mostly focused on making agentic systems reliable for production.
+> Currently at Visa building payment systems at scale, previously a founding engineer at PlumHQ
 
 ### Thinking about
 Testing non-deterministic AI systems. Better abstractions for agentic workflows.
