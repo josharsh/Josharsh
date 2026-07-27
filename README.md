@@ -1,5 +1,5 @@
-### 🧪 Creator - Pixelpi: Agent Harness for the browser → [pixlepi](https://npmjs.com/package/pixlepi) 
-### 🧪 Built the first MCP server testing framework → [MCP-JEST](https://npmjs.com/package/mcp-jest) 
+### Creator - Pixelpi: Agent Harness for the browser → [pixelpi](https://npmjs.com/package/pixlepi) 
+### Built the first MCP server testing framework → [MCP-JEST](https://npmjs.com/package/mcp-jest) 
 ![Version](https://img.shields.io/npm/v/mcp-jest?style=for-the-badge&logo=npm) 
 ![Downloads](https://img.shields.io/npm/dt/mcp-jest?style=for-the-badge&logo=npm&label=downloads) 
 ![License](https://img.shields.io/npm/l/mcp-jest?style=for-the-badge)
